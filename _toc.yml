@@ -1,10 +1,7 @@
+
 format: jb-book
 root: intro
 
 chapters:
-  - file: profil
-    title: Profil Mahasiswa
-
-  - file: LULC JAWA TIMUR/klasifikasi_lahan_jatim_revisi.ipynb
+  - file: LULC JAWA TIMUR/klasifikasi_lahan_jatim_revisi
     title: Klasifikasi Tutupan Lahan Jawa Timur
-

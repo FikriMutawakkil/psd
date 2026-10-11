@@ -1,7 +1,7 @@
 title: "Portofolio Teknik Informatika"
 author: "Fikri Mutawakkil"
 logo: "images/profil.jpg"
-only_build_toc_files: true
+
 
 execute:
   execute_notebooks: "off"

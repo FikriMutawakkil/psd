@@ -1,7 +1,19 @@
-# Portofolio Teknik Informatika
 
-Selamat datang di dokumentasi tugas dan proyek selama menempuh pendidikan Teknik Informatika.
+# Klasifikasi Tutupan Lahan Jawa Timur
 
-Website ini berisi dokumentasi praktikum, analisis data, pemrograman, dan proyek penginderaan jauh.
+Selamat datang di dokumentasi Proyek Sains Data tentang klasifikasi tutupan lahan di Provinsi Jawa Timur.
 
-Gunakan menu di sebelah kiri untuk menjelajahi setiap mata kuliah dan proyek.
+## Informasi Proyek
+
+- **Wilayah:** Provinsi Jawa Timur
+- **Citra satelit:** Sentinel-2A
+- **Metode klasifikasi:** Random Forest
+- **Platform analisis:** Python dan Jupyter Notebook
+
+## Tujuan
+
+Dokumentasi ini menyajikan tahapan pengolahan data citra satelit dan klasifikasi tutupan lahan, mulai dari persiapan data hingga interpretasi hasil.
+
+## Daftar Materi
+
+Pilih halaman **Klasifikasi Tutupan Lahan Jawa Timur** pada menu navigasi di sebelah kiri untuk membuka notebook analisis.
