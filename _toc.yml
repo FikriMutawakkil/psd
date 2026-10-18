@@ -5,3 +5,9 @@ root: intro
 chapters:
   - file: LULC JAWA TIMUR/klasifikasi_lahan_jatim_revisi
     title: Klasifikasi Tutupan Lahan Jawa Timur
+
+  - file: 01_training_evaluasi
+    title: Training dan Evaluasi Model
+
+  - file: LULC JAWA TIMUR revisi/notebooks/analisis_lulc_jawa_timur
+    title: Analisis LULC Jawa Timur (Revisi)
