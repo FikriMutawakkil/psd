@@ -1,7 +1,7 @@
-streamlit>=1.36
-streamlit-folium>=0.20
-folium>=0.17
-rasterio>=1.3
-numpy>=1.26
-pandas>=2.1
-Pillow>=10.0
+streamlit
+pandas
+numpy
+scikit-learn
+rasterio
+geopandas
+joblib
