@@ -10,3 +10,8 @@ html:
   favicon: "images/profil.jpg"
   use_issues_button: false
   use_repository_button: false
+  
+exclude_patterns:
+  - "**/.venv/**"
+  - "**/_build/**"
+  - "**/__pycache__/**"
