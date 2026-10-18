@@ -1,0 +1,17 @@
+ .gitignore                                         |   21 [32m+[m
+ LULC JAWA TIMUR revisi/app.py                      |  132 [32m+[m
+ .../data/geojson/jawatimur.geojson                 |    1 [32m+[m
+ .../data/lulc_jawa_timur_rf_revisi.tif             |  Bin [31m0[m -> [32m28459152[m bytes
+ .../data/processed/feature_importance.csv          |   15 [32m+[m
+ .../data/processed/overlay_lulc_preview.png        |  Bin [31m0[m -> [32m231888[m bytes
+ .../data/processed/perbandingan_model.csv          |    3 [32m+[m
+ .../data/processed/peta_geojson_lulc.html          |  619 [32m+++[m
+ .../data/processed/peta_lulc_interaktif.html       |  310 [32m++[m
+ .../data/sentinel_bands/fitur_lulc_jatim.csv       |  235 [32m++[m
+ .../models/random_forest_lulc.joblib               |  Bin [31m0[m -> [32m1427907[m bytes
+ .../notebooks/analisis_lulc_jawa_timur.ipynb       | 3281 [32m++++++++++++++++[m
+ .../analisis_lulc_jawa_timur_refisi.ipynb          | 3977 [32m++++++++++++++++++++[m
+ LULC JAWA TIMUR revisi/readme.txt                  |    0
+ LULC JAWA TIMUR revisi/requirements.txt            |    7 [32m+[m
+ _toc.yml                                           |    6 [32m+[m
+ 16 files changed, 8607 insertions(+)
