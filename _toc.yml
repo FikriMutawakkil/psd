@@ -6,5 +6,5 @@ chapters:
   - file: LULC JAWA TIMUR/klasifikasi_lahan_jatim_revisi
     title: Klasifikasi Tutupan Lahan Jawa Timur
 
-  - file: LULC JAWA TIMUR revisi/notebooks/analisis_lulc_jawa_timur_refisi
+  - file: lulc_jawa_timur_revisi/notebooks/analisis_lulc_jawa_timur_refisi
     title: Analisis LULC Jawa Timur (Revisi)
